@@ -12,6 +12,12 @@ http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="Nasional",NET.
 https://ythls.onrender.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Nasional",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="Nasional",Kompas TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="Nasional",BeritaSatu TV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-logo="https://i.imgur.com/fpFs6Ay.png" group-title="Lokal",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
