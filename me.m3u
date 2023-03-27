@@ -54,9 +54,6 @@ https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional
 https://av-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-id="BandungTV.id" tvg-logo="https://i.imgur.com/fpFs6Ay.png" group-title="Lokal",Bandung TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="Religi",Rodja TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
 #EXTINF:-1 tvg-id="InsanTV.id" tvg-logo="https://i.imgur.com/rvu37xY.png" group-title="Religi",Insan TV
