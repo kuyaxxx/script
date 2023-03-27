@@ -230,3 +230,9 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="Religi",Al Sunnah Al Nabawiyah TV
 https://edge.taghtia.com/sa/6.m3u8
+
+@@@@@@@ YOUTUBE @@@@@@@
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tarbiyahsunnah.com/wp-content/uploads/2019/09/logo_small-1.png" group-title="Religi",Tarbiyah Sunnah Channel
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679918480/ei/MDEhZJnwLta2juMP-qWh6AE/ip/182.253.194.6/id/q4BP1h5ADvg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPjrYx72My64Qu2dpcVjHEEBSjpxStomAMB4u4aaMMToCIH5USW6NUglz_GPBPsD-tIEM5pVfGdclB_TN_hatp7EF/file/index.m3u8
+
