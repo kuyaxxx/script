@@ -193,56 +193,57 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",
 https://av-live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
-@@@@@@@ Religi @@@@@@@
+@@@@@@@ Reliji @@@@@@@
 
-#EXTINF:-1 tvg-id="InsanTV.id" tvg-logo="https://i.imgur.com/rvu37xY.png" group-title="Religi",Insan TV
+#EXTINF:-1 tvg-id="InsanTV.id" tvg-logo="https://i.imgur.com/rvu37xY.png" group-title="Reliji",Insan TV
 https://h1.intechmedia.net/intech/ch1.m3u8
-#EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="Religi",Ashiil TV
+#EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="Reliji",Ashiil TV
 https://h1.intechmedia.net/intech/ch2.m3u8
-#EXTINF:-1 tvg-id="SurauTV.id" tvg-logo="https://i.imgur.com/CKoxcWL.png" group-title="Religi",Surau TV
+#EXTINF:-1 tvg-id="SurauTV.id" tvg-logo="https://i.imgur.com/CKoxcWL.png" group-title="Reliji",Surau TV
 https://h1.intechmedia.net/intech/ch3.m3u8
-#EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Religi",Ahsan TV
+#EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Reliji",Ahsan TV
 https://h1.intechmedia.net/intech/ch4.m3u8
-#EXTINF:-1 tvg-id="MuadzTV.id" tvg-logo="https://i.imgur.com/wT7sNUW.png" group-title="Religi",Muadz TV
+#EXTINF:-1 tvg-id="MuadzTV.id" tvg-logo="https://i.imgur.com/wT7sNUW.png" group-title="Reliji",Muadz TV
 https://h1.intechmedia.net/intech/ch5.m3u8
-#EXTINF:-1 tvg-id="RasyaadTV.id" tvg-logo="https://i.imgur.com/DmFoA5Z.png" group-title="Religi",Rasyaad TV
+#EXTINF:-1 tvg-id="RasyaadTV.id" tvg-logo="https://i.imgur.com/DmFoA5Z.png" group-title="Reliji",Rasyaad TV
 https://h1.intechmedia.net/intech/ch6.m3u8
-#EXTINF:-1 tvg-id="NaajiyaTV.id" tvg-logo="" group-title="Religi", Naajiya TV
+#EXTINF:-1 tvg-id="NaajiyaTV.id" tvg-logo="" group-title="Reliji", Naajiya TV
 https://h1.intechmedia.net/intech/ch7.m3u8
-#EXTINF:-1 tvg-id="HijrahTV.id" tvg-logo="https://i.imgur.com/bVN4zj2.png" group-title="Religi",Hijrah TV
+#EXTINF:-1 tvg-id="HijrahTV.id" tvg-logo="https://i.imgur.com/bVN4zj2.png" group-title="Reliji",Hijrah TV
 https://h1.intechmedia.net/intech/ch8.m3u8
-#EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Religi",AlIman TV
+#EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Reliji",AlIman TV
 https://h1.intechmedia.net/intech/ch9.m3u8
-#EXTINF:-1 tvg-id="NiagaTV.id" tvg-logo="https://i.imgur.com/XNgj2q1.png" group-title="Religi",Niaga TV
+#EXTINF:-1 tvg-id="NiagaTV.id" tvg-logo="https://i.imgur.com/XNgj2q1.png" group-title="Reliji",Niaga TV
 https://h1.intechmedia.net/intech/ch10.m3u8
-#EXTINF:-1 tvg-id="SalamTV.id" tvg-logo="https://i.imgur.com/00Ifzgo.png" group-title="Religi",Salam TV
+#EXTINF:-1 tvg-id="SalamTV.id" tvg-logo="https://i.imgur.com/00Ifzgo.png" group-title="Reliji",Salam TV
 https://h1.intechmedia.net/intech/ch12.m3u8
-#EXTINF:-1 tvg-id="SunnahJalanPastiTV.id" tvg-logo="https://i.imgur.com/8Ls5rsy.png" group-title="Religi",Sunnah Jalan Pasti TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reliji",TV Sunnah
+https://h1.intechmedia.net/intech/ch16.m3u8
+#EXTINF:-1 tvg-id="SunnahJalanPastiTV.id" tvg-logo="https://i.imgur.com/8Ls5rsy.png" group-title="Reliji",Sunnah Jalan Pasti TV
 https://h1.intechmedia.net/intech/ch17.m3u8
-#EXTINF:-1 tvg-id="MadaniTV.id" tvg-logo="https://i.imgur.com/8aonQ0v.png" group-title="Religi",Madani TV
+#EXTINF:-1 tvg-id="MadaniTV.id" tvg-logo="https://i.imgur.com/8aonQ0v.png" group-title="Reliji",Madani TV
 https://h1.intechmedia.net/intech/ch20.m3u8
-#EXTINF:-1 tvg-id="BinBazTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bin-baz-tv-id.png" group-title="Religi",Bin Baz TV
+#EXTINF:-1 tvg-id="BinBazTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bin-baz-tv-id.png" group-title="Reliji",Bin Baz TV
 https://h1.intechmedia.net/intech/ch22.m3u8
-#EXTINF:-1 tvg-id="MediaSunnahAceh.id" tvg-logo="https://i.imgur.com/CIByKTP.png" group-title="Religi",Media Sunnah Aceh
+#EXTINF:-1 tvg-id="MediaSunnahAceh.id" tvg-logo="https://i.imgur.com/CIByKTP.png" group-title="Reliji",Media Sunnah Aceh
 https://h1.intechmedia.net/intech/ch23.m3u8
-#EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="Religi",MGI TV
+#EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="Reliji",MGI TV
 https://h1.intechmedia.net/intech/ch25.m3u8
-#EXTINF:-1 tvg-id="FurqonTV.id" tvg-logo="" group-title="Religi",Al-Furqon TV
+#EXTINF:-1 tvg-id="FurqonTV.id" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/367F1A03-8317-448A-B336-CB5E0B14BD78.jpeg" group-title="Reliji",Al-Furqon TV
 https://h1.intechmedia.net/intech/ch24.m3u8
-#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="Religi",Rodja TV
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="Reliji",Rodja TV
 https://h1.intechmedia.net/intech/ch26.m3u8
-#EXTINF:-1 tvg-id="UFA24.id" tvg-logo="https://i.imgur.com/4pVuIrK.png" group-title="Religi",UFA 24
+#EXTINF:-1 tvg-id="UFA24.id" tvg-logo="https://i.imgur.com/4pVuIrK.png" group-title="Reliji",UFA 24
 https://h1.intechmedia.net/intech/ch27.m3u8
+#EXTINF:-113 group-title="Reliji" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV (Backup)
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",Quran TV
+#EXTINF:-1 group-title="Reliji" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",Quran TV
 https://av-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Religi",Makkah TV
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="Religi",Al Quran Al Kareem TV
-https://edge.taghtia.com/sa/7.m3u8
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="Religi",Al Sunnah Al Nabawiyah TV
-https://edge.taghtia.com/sa/6.m3u8
-
+#EXTINF:-101 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-102 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
