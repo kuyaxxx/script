@@ -193,6 +193,8 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",
 https://av-live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
+@@@@@@@ Religi @@@@@@@
+
 #EXTINF:-1 tvg-id="InsanTV.id" tvg-logo="https://i.imgur.com/rvu37xY.png" group-title="Religi",Insan TV
 https://h1.intechmedia.net/intech/ch1.m3u8
 #EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="Religi",Ashiil TV
@@ -231,6 +233,12 @@ https://h1.intechmedia.net/intech/ch24.m3u8
 https://h1.intechmedia.net/intech/ch26.m3u8
 #EXTINF:-1 tvg-id="UFA24.id" tvg-logo="https://i.imgur.com/4pVuIrK.png" group-title="Religi",UFA 24
 https://h1.intechmedia.net/intech/ch27.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",Quran TV
+https://av-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Religi",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="Religi",Al Quran Al Kareem TV
@@ -238,13 +246,3 @@ https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="Religi",Al Sunnah Al Nabawiyah TV
 https://edge.taghtia.com/sa/6.m3u8
 
-@@@@@@@ YOUTUBE @@@@@@@
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUf6UrcoqTK5sPRVtL5oEaSEDuKee1BbjNI59Ff=s176-c-k-c0x00ffffff-no-rj" group-title="Youtube Live",Syafiq Riza Basalamah
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680000810/ei/ynIiZJT2Aau1juMP8MGjsA4/ip/38.47.66.192/id/IDOn6KHxTrc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYwGV8H3FWx2bc1LFaNKpZVcgpD1GKdoE58TW2ePk7j4CIGjpzjWaFix89qXU1TFr4y9OuGqqG-ucxqW9vVsxBoOg/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/0NUN7KOLuTrMOoShQo36ywZNEdtqOgi19ISkQq_TXmapMz8WlG8rI2Et82s93GLTRWYTbh64Gw=s176-c-k-c0x00ffffff-no-rj" group-title="Youtube Live",Marhaban TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680018012/ei/-bUiZJilG9H02roPwNu2mAw/ip/38.47.66.192/id/YTu5THRetr0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXxKKIvgIlzyJ3A3Y3jGIk7TMzL1l6BCNPueMXxD_oY8CIGHTHXFNOqPiViqmWxF4us0reIC7eWTHcDollx09XDHb/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWT8s5qjd6SfC9qpcxBt12-YrAQoHbEWLD09VMG=s176-c-k-c0x00ffffff-no-rj" group-title="Youtube Live",GAZWAH TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679920278/ei/NjghZOftNPLBpgf-q4foCg/ip/182.253.194.6/id/ZRaeYYBsWUo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL3UxSZkbupq847m9DMAWJm_i6mbHreh2PMWAvYwMKfMAiBo2jzG2gRGSLI5WVgZG7lN8zNYfhO2_dcrlfoe9GdPuw%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/JQwSnfnfWbtilkSW6cwMFCO3irHeTTYb5162e2AZyBcAhmzVfsvZxJA_EYYkrNpTXYdRUKh3Tw=s176-c-k-c0x00ffffff-no-rj" group-title="Youtube Live",Makkah
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680017860/ei/ZLUiZM62JvXLpgfq75vQBA/ip/38.47.66.192/id/xZtG7Bn2B5c.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/id/vprv/1/go/1/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEtPMNNozklc7jQEjP1L2SqeVAWldcsL9B5xSLg2GSbQCIHqhypZgOjaxy_w9gIoh1quFp7cmcnZSnHK5kvqsZMI6/file/index.m3u8
