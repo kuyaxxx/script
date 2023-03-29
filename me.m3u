@@ -235,7 +235,7 @@ https://h1.intechmedia.net/intech/ch24.m3u8
 https://h1.intechmedia.net/intech/ch26.m3u8
 #EXTINF:-1 tvg-id="UFA24.id" tvg-logo="https://i.imgur.com/4pVuIrK.png" group-title="Reliji",UFA 24
 https://h1.intechmedia.net/intech/ch27.m3u8
-#EXTINF:-113 group-title="Reliji" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV (Backup)
+#EXTINF:-113 group-title="Reliji" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",IZZAH TV
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
