@@ -111,6 +111,20 @@ https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature
 https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
+#EXTINF:-1 group-title="Movies" #EXTINF:-1 group-title="Movies",FoxMovies
+https://s.id/iduntv-foxmov
+#EXTINF:-1 group-title="Movies",Fox Action Movies
+https://s.id/iduntv-foactmov
+#EXTINF:-1 group-title="Movies",FoxFamilyMovie
+https://s.id/iduntv-foxfam
+#EXTINF:-1 group-title="Movies",Foxlife
+https://s.id/iduntv-foxlfe
+#EXTINF:-1 group-title="Movies",Fox HD
+https://s.id/iduntv-foxhd
+#EXTINF:-1 group-title="Movies",Fox Crime
+https://s.id/iduntv-foxcr
+
+
 #Kids 
 
 
